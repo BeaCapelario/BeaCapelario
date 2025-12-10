@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BeaCapelario&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://i.pinimg.com/originals/0c/1b/6f/0c1b6f140f87645b6267ddc00f288036.gif" height="220" alt="streak graph"  />
 </div>
 
 ###
