@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://i.pinimg.com/736x/0b/de/63/0bde63c7d9dcf478122f8631ee6bd340.jpg"  />
+  <img height="300" widht="500"  src="https://i.pinimg.com/736x/0b/de/63/0bde63c7d9dcf478122f8631ee6bd340.jpg"  />
 </div>
 
 ###
@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0c/1b/6f/0c1b6f140f87645b6267ddc00f288036.gif" height="300" widht="450"  alt="streak graph"  />
+  <img src="https://i.pinimg.com/originals/0c/1b/6f/0c1b6f140f87645b6267ddc00f288036.gif" height="300" widht="500"  alt="streak graph"  />
 </div>
 
 ###
