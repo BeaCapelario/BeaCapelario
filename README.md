@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0c/1b/6f/0c1b6f140f87645b6267ddc00f288036.gif" height="450"  alt="streak graph"  />
+  <img src="https://i.pinimg.com/originals/0c/1b/6f/0c1b6f140f87645b6267ddc00f288036.gif" height="300" widht="450"  alt="streak graph"  />
 </div>
 
 ###
