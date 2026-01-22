@@ -81,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif" height="300" widht="500"  alt="streak graph"  />
+  <img height="300" widht="500"  src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif"  alt="streak graph"  />
 </div>
 
 ###
