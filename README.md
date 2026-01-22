@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" widht="500"  src="https://i.pinimg.com/originals/91/fc/d8/91fcd8f76a617efb19a42e4440293ab2.gif"  />
+  <img height="400" widht="600"  src="https://i.pinimg.com/originals/91/fc/d8/91fcd8f76a617efb19a42e4440293ab2.gif"  />
 </div>
 
 ###
@@ -19,6 +19,10 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img height="200" widht="500" src="https://i.pinimg.com/originals/71/31/0b/71310b520603029b97ea1e3a9b64fabd.gif"  />
+</div>
 
 <h1 align="center">*+:｡.｡ Welcome to my profile! ｡.｡:+*</h1>
 
@@ -77,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0c/1b/6f/0c1b6f140f87645b6267ddc00f288036.gif" height="300" widht="500"  alt="streak graph"  />
+  <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif" height="300" widht="500"  alt="streak graph"  />
 </div>
 
 ###
