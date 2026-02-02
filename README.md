@@ -1,88 +1,58 @@
-<div align="center">
-  <img height="400" widht="600"  src="https://i.pinimg.com/originals/91/fc/d8/91fcd8f76a617efb19a42e4440293ab2.gif"  />
-</div>
+# 🔬 Bea's Code Lab 
 
-###
+<p align="center">
+  <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" width="400px">
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+### ⚙️ System Initialization...
+`$ status: apprentice_mode.exe active`
 
-###
+* **User:** Bea, 24 anos.
+* **Role:** Aprendiz em Soluções Digitais @ **Bosch Brasil** 🇧🇷
+* **Current Base:** **SENAI** (Onde a teoria se torna prática e o café se torna código).
+* **Objective:** Construir uma base sólida em engenharia de software e resolver problemas complexos.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BeaCapelario.BeaCapelario&"  />
-</div>
+---
 
-###
+### 🧪 Experimentos em Curso (SENAI Edition)
 
-<br clear="both">
+<p align="right">
+  <img src="https://i.pinimg.com/originals/e2/45/ce/e245cea2d1df360e2c0fab196856a665.gif" width="200px">
+</p>
 
-<div align="center">
-  <img height="200" widht="500" src="https://i.pinimg.com/originals/71/31/0b/71310b520603029b97ea1e3a9b64fabd.gif"  />
-</div>
+Este GitHub é o meu **diário de laboratório**. Aqui documento a minha evolução técnica através de:
 
-<h1 align="center">*+:｡.｡ Welcome to my profile! ｡.｡:+*</h1>
+* 📂 **Módulos de Lógica:** Exercícios fundamentais e algoritmos.
+* 📂 **Simulações de Aula:** Projetos e desafios práticos do SENAI.
+* 📂 **Explorações de Sistemas:** Onde testo novos conceitos e ferramentas.
 
-###
+---
 
-<h3 align="left">✧˚ · . About Me</h3>
+### 🛠️ Lab Equipment & Tech Stats
 
-###
+Aqui estão as ferramentas que estou a masterizar no meu inventário:
 
-<p align="left">🔥 Olá, eu sou a Bea!<br>👩💻 24 anos • Aprendiz em Soluções Digitais @Bosch Brasil<br>🎯 Construindo meu caminho para me tornar Desenvolvedora Front-end | Entusiasta de UI/UX<br>🛠️ Atualmente dominando: HTML • CSS • JS • Princípios de Design<br>🏗️ Este é meu laboratório de código, construindo habilidades um projeto por vez!<br>💬 Vamos conectar e conversar sobre tech, design ou trajetórias de carreira!<br><br>🔥 Hey, I'm Bea!<br>👩💻 24 • Digital Solutions Apprentice @Bosch Brazil<br>🎯 Building my path to become a Front-end Developer | UI/UX enthusiast<br>🛠️ Currently mastering: HTML • CSS • JS • Design Principles<br>🏗️ This is my code lab , building skills one project at a time!<br>💬 Let's connect and talk tech, design, or career journeys!</p>
+| Skill | Level | Status |
+| :--- | :--- | :--- |
+| **Lógica de Programação** | `██████████░░` | *Optimizing...* |
+| **Git & GitHub** | `████████░░░░` | *Committing...* |
+| **Algoritmos** | `███████░░░░░` | *Processing...* |
+| **UI/UX Design** | `████████░░░░` | *Polishing...* |
+| **Problem Solving** | `███████████░` | *Debugging...* |
 
-###
+> **Tech Stack:** Atualmente a focar-me em dominar os fundamentos que movem as soluções digitais da Bosch.
 
-<h3 align="left">✧˚ · . Language and tools</h3>
+---
 
-###
+### 💬 Input / Output
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ea/ac/af/eaacaf9a3b6c6e49577dd1e3519a22e9.gif" width="300px">
+</p>
 
-###
+* **Input:** Café, curiosidade insaciável e cultura nerd.
+* **Output:** Trocas de XP sobre carreira, tecnologia e o universo geek.
 
-<h3 align="left">✧˚ · . My stats</h3>
+`System.out.println("Bora conectar e trocar uma ideia?");`
 
-###
-
-<div align="center">
-  <img height="300" widht="500"  src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif"  alt="streak graph"  />
-</div>
-
-###
-
+---
