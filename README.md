@@ -8,7 +8,7 @@
 `$ status: apprentice_mode.exe active`
 
 * **User:** Bea, 25 anos.
-* **Role:** Aprendiz em Soluções Digitais @ **Bosch Brasil** 🇧🇷
+* **Role:** Meio-oficial em Soluções Digitais @ **Bosch Brasil** 🇧🇷
 * **Current Base:** **SENAI** (Onde a teoria se torna prática e o café se torna código).
 * **Objective:** Construir uma base sólida em engenharia de software e resolver problemas complexos.
 
