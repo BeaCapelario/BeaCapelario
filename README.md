@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou a Bea! ✨</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/7a/76/65/7a7665e3547b365d0d2596f816bae79c.jpg" width="280px">
+  <img src="https://i.pinimg.com/originals/3d/07/07/3d0707f5ac5e3e05b3985168d671e475.gif" width="300px">
 </p>
 
 <p align="center">
